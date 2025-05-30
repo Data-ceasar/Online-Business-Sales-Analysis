@@ -59,6 +59,7 @@ All charts and visuals are generated using Google Sheets:
 
 ## ✅ Insights Derived
 
+![Dashboard](https://github.com/Data-ceasar/Online-Business-Sales-Analysis/blob/main/Online%20Business%20Sales%20Analysis%20Project%20-%20Google%20Sheets_page-0001.jpg)
 The highest-performing product type was the Basket, accounting for 36% of net sales. The top 5 highest performing products are Basket, Art & Sculpture, Jewelry, Home Decor, and Christmas.
 - The number of orders in the 4th quarter is consistently higher than that of other quarters. This may be due to the holiday season. However, the number of orders in the 4th quarter of 2019 was significantly higher than in previous years. This was due to pre-purchase in response to the COVID-19 pandemic.
 - There was a spike in shipping costs in the 4th quarter of 2019 compared to other periods. This is due to the rise in demand for online purchases in the same period.
